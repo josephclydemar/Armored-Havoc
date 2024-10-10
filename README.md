@@ -1,0 +1,2 @@
+# Armored Havoc
+`Armored Havoc` is a fast-paced 2D multiplayer tank battle game where players command powerful, customizable armored vehicles in intense, strategic combat. Set in diverse arenas with destructible environments, players must outmaneuver opponents, use terrain to their advantage, and unleash devastating attacks to dominate the battlefield. The game features multiple game modes, team-based and free-for-all battles.
